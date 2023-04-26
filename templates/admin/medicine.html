@@ -1,0 +1,39 @@
+{% extends"admin/adminindex.html" %}
+{% block body %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+     <style type="text/css">
+        th{
+            color: black;
+        }
+    </style>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+<h2 class="red">MEDICINES</h2>
+  <table class="table table-hover">
+    <tr>
+      <th width="100" scope="col">#</th>
+      <th width="230" scope="col">Medicine name</th>
+      <th width="180" scope="col">image</th>
+      <th width="128" scope="col">details</th>
+      <th width="103" scope="col">price</th>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td scope="row">{{ loop.index }}</td>
+      <td>{{ i.medicine_name }}</td>
+      <td><img src="{{ i.image }}" height="100" width="100"/></td>
+      <td>{{ i.details }}</td>
+      <td>{{ i.price }}</td>
+    </tr>
+      {% endfor %}
+  </table>
+</form>
+</body>
+</html>
+{% endblock %}

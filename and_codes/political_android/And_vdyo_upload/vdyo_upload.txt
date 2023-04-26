@@ -1,0 +1,20 @@
+
+import base64
+import time
+@app.route('/and_add_work',methods=['post'])
+def and_add_work():
+    work=request.form['wrk']
+    des=request.form['det']
+    uid = request.form['lid']
+    vdyo=request.form['vid']
+    extn=request.form['vid_type']
+    date=datetime.datetime.now().strftime("%y%m%d-%H%M%S")
+    a=base64.b64decode(vdyo)
+    # f=open(r"D:\Project\sngcas\backup\smart_career\static\pic\\"+date+'.' + extn)
+    f=open(r"D:\Project\sngcas\backup\smart_career\static\pic\\"+date+ ".mp4","wb")
+    ss="/static/pic/"+date+".mp4"
+    f.write(a)
+    f.close()
+    db=Db()
+    db.insert("insert into work VALUES ('','"+uid+"',curdate(),'"+work+"','"+des+"','"+str(ss)+"')")
+    return jsonify(status="ok")

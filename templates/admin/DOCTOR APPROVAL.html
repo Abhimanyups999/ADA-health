@@ -1,0 +1,58 @@
+{% extends"admin/adminindex.html" %}
+{% block body %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+    <style>
+table, td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+</style>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+<h2 class="red">DOCTOR APPROVAL</h2>
+  <table class="table table-hover">
+    <tr>
+      <th width="10" height="58" scope="col">#</th>
+      <th width="111" scope="col">DOCTOR NAME</th>
+      <th width="95" scope="col">LICENSE ID</th>
+      <th width="138" scope="col">SPECIALIZATION</th>
+      <th width="73" scope="col">EMAIL ID</th>
+      <th width="136" scope="col">BIO</th>
+      <th width="133" scope="col">PHONE NUMBER</th>
+      <th width="165" scope="col">GENDER</th>
+        <th width="165" scope="col">SCHEDULE</th>
+      <th width="77" scope="col">&nbsp;</th>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}</td>
+      <td>&nbsp;{{ i.doctor_name }}</td>
+      <td>&nbsp;{{ i.license_id }}</td>
+      <td>&nbsp;{{ i.specialization }}</td>
+      <td>&nbsp;{{ i.bio }}</td>
+      <td>&nbsp;{{ i.email_id }}</td>
+      <td>&nbsp;{{ i.phone_number }}</td>
+        <td>{{ i.gender }}</td>
+        <td>{{ i.schedule }}</td>
+      <th width="77" scope="col"><p><a href="/approve_doctor/{{ i.doctor_id }}">APPROVE</a></p>
+      <p><a href="/reject_doctor/{{ i.doctor_id }}">REJECT</a></p></th>
+    </tr>
+      {% endfor %}
+  </table>
+</form>
+</body>
+</html>
+{% endblock %}

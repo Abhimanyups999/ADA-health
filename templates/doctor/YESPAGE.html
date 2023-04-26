@@ -1,0 +1,38 @@
+{% extends"doctor/doctorindex.html" %}
+{% block body %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+{#     <style>#}
+{#table, td, th {#}
+{#  border: 1px solid #ddd;#}
+{#  text-align: left;#}
+{#}#}
+{##}
+{#th, td {#}
+{#  text-align: left;#}
+{#  padding: 8px;#}
+{#}#}
+{##}
+{#tr:nth-child(even) {background-color: #f2f2f2;}#}
+{#</style>#}
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+  <table class="table table-active" border="1">
+      {% for i in data %}
+    <tr>
+      <th scope="row"><input type="checkbox" name="checkbox" id="checkbox" value="{{ i.test_id }}" />{{ i.test_name }}</th>
+    </tr>
+      {% endfor %}
+    <tr>
+      <th scope="row"><center><input type="submit" name="ADD" id="ADD" value="ADD" class="btn btn-primary" /></center></th>
+    </tr>
+  </table>
+</form>
+</body>
+</html>
+{% endblock %}

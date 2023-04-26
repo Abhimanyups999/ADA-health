@@ -1,0 +1,18 @@
+@app.route('/anviewcomp', methods=['POST'])
+def anvcom():
+    c = (request.form['id'])
+    query = "select * from complaint where user_id='" + c + "'"
+    print(query)
+    con, cu = connection()
+    m = cu.execute(query)
+    res = cu.fetchall()
+    if res is not None:
+        row_headers = [x[0] for x in cu.description]
+        json_data = []
+        for result in res:
+            json_data.append(dict(zip(row_headers, result)))
+            con.commit()
+            print(res, json_data)
+        return jsonify(status='Ok', users=json_data)
+    else:
+        return jsonify(status='no')

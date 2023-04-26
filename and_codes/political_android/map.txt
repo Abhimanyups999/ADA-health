@@ -1,0 +1,20 @@
+DrawerLayout drawer = findViewById(R.id.drawer_layout);
+        NavigationView navigationView = findViewById(R.id.nav_view);
+        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
+                this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+        drawer.addDrawerListener(toggle);
+        toggle.syncState();
+        View hd=navigationView.getHeaderView(0);
+        ImageView imgv=(ImageView)hd.findViewById(R.id.imageView);
+        TextView name=(TextView)hd.findViewById(R.id.t);
+        TextView email=(TextView)hd.findViewById(R.id.textView);
+        SharedPreferences sh= PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+
+        String uimage=sh.getString("uimage","");
+        String uname=sh.getString("uname","");
+        String uemail=sh.getString("uemail","");
+        String url=sh.getString("url","")+uimage;
+        Picasso.with(getApplicationContext()).load(Uri.parse(url)).transform(new CircleTransform()).into(imgv);
+        name.setText(""+uname);
+        email.setText(""+uemail);
+        navigationView.setNavigationItemSelectedListener(this);

@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9d2da30-c354-49bd-b4e0-f39f4fd36dc0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ADA$tkinter4.coverage" NAME="tkinter4 Coverage Results" MODIFIED="1667562157055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$newlist.coverage" NAME="newlist Coverage Results" MODIFIED="1667820977485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$student_discount.coverage" NAME="student_discount Coverage Results" MODIFIED="1667822285503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1667569534645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1669951429931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$ADA.coverage" NAME="ADA Coverage Results" MODIFIED="1682401333108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ADA$tkinter1.coverage" NAME="tkinter1 Coverage Results" MODIFIED="1668068046121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$odd.coverage" NAME="odd Coverage Results" MODIFIED="1667819638093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$list_slice.coverage" NAME="list_slice Coverage Results" MODIFIED="1668067939367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$month.coverage" NAME="month Coverage Results" MODIFIED="1667823751107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$Calculator1.coverage" NAME="Calculator1 Coverage Results" MODIFIED="1667564312634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$texttospeech.coverage" NAME="texttospeech Coverage Results" MODIFIED="1667699764119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1667957566666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$tkinter2.coverage" NAME="tkinter2 Coverage Results" MODIFIED="1668068053196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$regular.coverage" NAME="regular Coverage Results" MODIFIED="1667820156498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$set.coverage" NAME="set Coverage Results" MODIFIED="1667819400436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$qrcodegen.coverage" NAME="qrcodegen Coverage Results" MODIFIED="1667702675057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$Unittests_in_ADA_py.coverage" NAME="Unittests in ADA.py Coverage Results" MODIFIED="1673409831621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ADA$tkinter3.coverage" NAME="tkinter3 Coverage Results" MODIFIED="1667820483955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$computer_oop.coverage" NAME="computer_oop Coverage Results" MODIFIED="1668067020124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$hospital_oop.coverage" NAME="hospital_oop Coverage Results" MODIFIED="1668067439569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$datatospeech.coverage" NAME="datatospeech Coverage Results" MODIFIED="1667700754272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1667821775453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ADA$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1667569380896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ADA" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="ADA.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ADA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="1041" column="17" lean-forward="false" selection-start-line="1041" selection-start-column="17" selection-end-line="1041" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1682401333091" expanded="true" signature="548:624" ph="select * fro... login" />
+                <marker date="1682401333091" expanded="true" signature="1853:1947" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="2202:2302" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="2549:2634" ph="select * fro... lab" />
+                <marker date="1682401333091" expanded="true" signature="2882:2902" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="2882:2975" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="3225:3247" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="3225:3253" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="3225:3316" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="3225:3326" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="3225:3328" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="3579:3596" ph="select * fro... lab" />
+                <marker date="1682401333091" expanded="true" signature="3579:3650" ph="select * fro... lab" />
+                <marker date="1682401333091" expanded="true" signature="3579:3655" ph="select * fro... lab" />
+                <marker date="1682401333091" expanded="true" signature="3579:3660" ph="select * fro... lab" />
+                <marker date="1682401333091" expanded="true" signature="3579:3662" ph="select * fro... lab" />
+                <marker date="1682401333091" expanded="true" signature="3921:3941" ph="select * fro... client" />
+                <marker date="1682401333091" expanded="true" signature="4214:4282" ph="update login... " />
+                <marker date="1682401333091" expanded="true" signature="4544:4598" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="4620:4668" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="4928:4994" ph="update login... " />
+                <marker date="1682401333091" expanded="true" signature="5250:5304" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="5326:5378" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="5630:5693" ph="update login... " />
+                <marker date="1682401333091" expanded="true" signature="5940:5988" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="6010:6062" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="6745:6828" ph="insert into medicine... " />
+                <marker date="1682401333091" expanded="true" signature="7180:7202" ph="select * fro... medicine" />
+                <marker date="1682401333091" expanded="true" signature="7558:7596" ph="insert into test... " />
+                <marker date="1682401333091" expanded="true" signature="7932:7946" ph="select * fro... me" />
+                <marker date="1682401333091" expanded="true" signature="7932:7950" ph="select * fro... test" />
+                <marker date="1682401333091" expanded="true" signature="8201:8224" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="8201:8233" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="8201:8241" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="9561:9629" ph="insert into login... " />
+                <marker date="1682401333091" expanded="true" signature="9651:9805" ph="insert into hospital... " />
+                <marker date="1682401333091" expanded="true" signature="9651:9820" ph="insert into hospital... " />
+                <marker date="1682401333091" expanded="true" signature="9651:9835" ph="insert into hospital... " />
+                <marker date="1682401333091" expanded="true" signature="9651:9837" ph="insert into hospital... " />
+                <marker date="1682401333091" expanded="true" signature="10877:11173" ph="update hospi... " />
+                <marker date="1682401333091" expanded="true" signature="11326:11631" ph="update hospi... " />
+                <marker date="1682401333091" expanded="true" signature="11776:12082" ph="update hospi... " />
+                <marker date="1682401333091" expanded="true" signature="12238:12304" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="13176:13212" ph="select * fro... login" />
+                <marker date="1682401333091" expanded="true" signature="13176:13225" ph="select * fro... login" />
+                <marker date="1682401333091" expanded="true" signature="13368:13436" ph="insert into login... " />
+                <marker date="1682401333091" expanded="true" signature="13458:13668" ph="insert into doctor... " />
+                <marker date="1682401333091" expanded="true" signature="14447:14761" ph="update docto... " />
+                <marker date="1682401333091" expanded="true" signature="14913:14951" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="14913:14974" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="14913:14977" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="15151:15299" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="15151:15323" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="15151:15353" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="15525:15673" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="15525:15697" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="15525:15737" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="15525:15753" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="15929:16040" ph="select * fro... share" />
+                <marker date="1682401333091" expanded="true" signature="15929:16041" ph="select * fro... share" />
+                <marker date="1682401333091" expanded="true" signature="15929:16046" ph="select * fro... share" />
+                <marker date="1682401333091" expanded="true" signature="15929:16049" ph="select * fro... share" />
+                <marker date="1682401333091" expanded="true" signature="16221:16369" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="16221:16414" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="16601:16654" ph="update booki... " />
+                <marker date="1682401333091" expanded="true" signature="16601:16663" ph="update login... " />
+                <marker date="1682401333091" expanded="true" signature="16857:16906" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="17086:17135" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="17509:17592" ph="insert into prescription... " />
+                <marker date="1682401333091" expanded="true" signature="17729:17772" ph="update presc... " />
+                <marker date="1682401333091" expanded="true" signature="17729:17785" ph="update booki... " />
+                <marker date="1682401333091" expanded="true" signature="17729:17793" ph="update booki... " />
+                <marker date="1682401333091" expanded="true" signature="17947:17969" ph="select * fro... medicine" />
+                <marker date="1682401333091" expanded="true" signature="18143:18165" ph="select * fro... medicine" />
+                <marker date="1682401333091" expanded="true" signature="18143:18286" ph="select * fro... medicine" />
+                <marker date="1682401333091" expanded="true" signature="18581:18603" ph="insert into lab... " />
+                <marker date="1682401333091" expanded="true" signature="18581:18609" ph="insert into lab... " />
+                <marker date="1682401333091" expanded="true" signature="18581:18613" ph="insert into lab... " />
+                <marker date="1682401333091" expanded="true" signature="18581:18620" ph="insert into lab... " />
+                <marker date="1682401333091" expanded="true" signature="18581:18623" ph="insert into lab_test... " />
+                <marker date="1682401333091" expanded="true" signature="18581:18629" ph="insert into lab_test... " />
+                <marker date="1682401333091" expanded="true" signature="18581:18630" ph="insert into lab... " />
+                <marker date="1682401333091" expanded="true" signature="18780:18798" ph="select * fro... test" />
+                <marker date="1682401333091" expanded="true" signature="19143:19171" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="19143:19187" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="19143:19191" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="19143:19203" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="19143:19213" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="19143:19221" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="19143:19227" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="19143:19237" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="19385:19418" ph="insert into schedule... " />
+                <marker date="1682401333091" expanded="true" signature="19385:19444" ph="insert into schedule... " />
+                <marker date="1682401333091" expanded="true" signature="19385:19455" ph="insert into schedule... " />
+                <marker date="1682401333091" expanded="true" signature="19385:19467" ph="insert into schedule... " />
+                <marker date="1682401333091" expanded="true" signature="19385:19478" ph="insert into schedule... " />
+                <marker date="1682401333091" expanded="true" signature="19732:19746" ph="select * fro... med" />
+                <marker date="1682401333091" expanded="true" signature="19732:19771" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="19732:19796" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="19971:20011" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="19971:20018" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="20391:20410" ph="update sched... " />
+                <marker date="1682401333091" expanded="true" signature="20391:20417" ph="update sched... " />
+                <marker date="1682401333091" expanded="true" signature="20391:20425" ph="update sched... " />
+                <marker date="1682401333091" expanded="true" signature="20391:20458" ph="update sched... " />
+                <marker date="1682401333091" expanded="true" signature="20391:20468" ph="update sched... " />
+                <marker date="1682401333091" expanded="true" signature="20391:20478" ph="update sched... " />
+                <marker date="1682401333091" expanded="true" signature="20391:20484" ph="update sched... " />
+                <marker date="1682401333091" expanded="true" signature="20391:20488" ph="update sched... " />
+                <marker date="1682401333091" expanded="true" signature="20391:20495" ph="update sched... " />
+                <marker date="1682401333091" expanded="true" signature="20391:20497" ph="update sched... " />
+                <marker date="1682401333091" expanded="true" signature="20645:20686" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="20645:20694" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="21708:21761" ph="select * fro... login" />
+                <marker date="1682401333091" expanded="true" signature="21905:21973" ph="insert into login... " />
+                <marker date="1682401333091" expanded="true" signature="21995:22018" ph="insert into lab... " />
+                <marker date="1682401333091" expanded="true" signature="21995:22153" ph="insert into lab... " />
+                <marker date="1682401333091" expanded="true" signature="21995:22168" ph="insert into lab... " />
+                <marker date="1682401333091" expanded="true" signature="22900:23205" ph="update docto... " />
+                <marker date="1682401333091" expanded="true" signature="23354:23412" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="23925:23962" ph="select * fro... client" />
+                <marker date="1682401333091" expanded="true" signature="23925:23972" ph="select * fro... client" />
+                <marker date="1682401333091" expanded="true" signature="24059:24075" ph="insert into lab_... " />
+                <marker date="1682401333091" expanded="true" signature="24059:24093" ph="insert into lab_result... " />
+                <marker date="1682401333091" expanded="true" signature="24059:24094" ph="insert into lab_result... " />
+                <marker date="1682401333091" expanded="true" signature="24059:24108" ph="insert into lab_result... " />
+                <marker date="1682401333091" expanded="true" signature="24059:24119" ph="insert into lab_result... " />
+                <marker date="1682401333091" expanded="true" signature="24059:24132" ph="insert into lab_result... " />
+                <marker date="1682401333091" expanded="true" signature="24059:24134" ph="insert into lab_result... " />
+                <marker date="1682401333091" expanded="true" signature="24059:24159" ph="insert into lab_result... " />
+                <marker date="1682401333091" expanded="true" signature="24059:24161" ph="insert into lab_result... " />
+                <marker date="1682401333091" expanded="true" signature="25811:25886" ph="select * fro... lab_test" />
+                <marker date="1682401333091" expanded="true" signature="25811:25910" ph="select * fro... lab_result" />
+                <marker date="1682401333091" expanded="true" signature="25811:25934" ph="select * fro... lab_result" />
+                <marker date="1682401333091" expanded="true" signature="25811:25936" ph="select * fro... lab_result" />
+                <marker date="1682401333091" expanded="true" signature="26445:26529" ph="select * fro... login" />
+                <marker date="1682401333091" expanded="true" signature="26825:26878" ph="select * fro... test" />
+                <marker date="1682401333091" expanded="true" signature="27750:27828" ph="update clien... " />
+                <marker date="1682401333091" expanded="true" signature="27750:27977" ph="update clien... " />
+                <marker date="1682401333091" expanded="true" signature="27750:27994" ph="update clien... " />
+                <marker date="1682401333091" expanded="true" signature="27750:27995" ph="update clien... " />
+                <marker date="1682401333091" expanded="true" signature="27750:28008" ph="update clien... " />
+                <marker date="1682401333091" expanded="true" signature="27750:28010" ph="update clien... " />
+                <marker date="1682401333091" expanded="true" signature="28100:28368" ph="update clien... " />
+                <marker date="1682401333091" expanded="true" signature="28452:28720" ph="update clien... " />
+                <marker date="1682401333091" expanded="true" signature="28822:29107" ph="update clien... " />
+                <marker date="1682401333091" expanded="true" signature="29248:29268" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="29248:29288" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="29248:29333" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="29248:29341" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="29248:29343" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="29563:29577" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="29563:29585" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="29563:29664" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="29563:29666" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="29937:30030" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="29937:30064" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="29937:30072" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="30334:30435" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="30334:30470" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="30334:30478" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="30334:30479" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="30737:30781" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="30737:30782" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="30737:30790" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="30737:30792" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="31053:31103" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="31053:31104" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="31053:31112" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="31053:31115" ph="select * fro... hospital" />
+                <marker date="1682401333091" expanded="true" signature="31388:31436" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="31745:31786" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="31745:31794" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="31745:31803" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="31745:31810" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="31745:31818" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="31915:31946" ph="insert into booking... " />
+                <marker date="1682401333091" expanded="true" signature="31915:31986" ph="insert into booking... " />
+                <marker date="1682401333091" expanded="true" signature="31915:31994" ph="insert into booking... " />
+                <marker date="1682401333091" expanded="true" signature="31915:31995" ph="insert into booking... " />
+                <marker date="1682401333091" expanded="true" signature="31915:31997" ph="insert into booking... " />
+                <marker date="1682401333091" expanded="true" signature="32199:32355" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="32635:32654" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="32635:32673" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="32635:32681" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="32866:32991" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="33272:33369" ph="select * fro... prescription" />
+                <marker date="1682401333091" expanded="true" signature="34247:34259" ph="insert into c... " />
+                <marker date="1682401333091" expanded="true" signature="34247:34277" ph="insert into login... " />
+                <marker date="1682401333091" expanded="true" signature="34247:34292" ph="insert into login... " />
+                <marker date="1682401333091" expanded="true" signature="34247:34315" ph="insert into login... " />
+                <marker date="1682401333091" expanded="true" signature="34247:34317" ph="insert into login... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34365" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34380" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34398" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34417" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34430" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34440" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34451" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34466" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34481" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34504" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34518" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34337:34520" ph="insert into client... " />
+                <marker date="1682401333091" expanded="true" signature="34760:34841" ph="select * fro... doctor" />
+                <marker date="1682401333091" expanded="true" signature="35106:35220" ph="select * fro... lab" />
+                <marker date="1682401333091" expanded="true" signature="35496:35652" ph="select * fro... schedule" />
+                <marker date="1682401333091" expanded="true" signature="35496:35692" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="35496:35708" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="36495:36597" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="37148:37211" ph="insert into client_data_record... " />
+                <marker date="1682401333091" expanded="true" signature="37148:37227" ph="insert into client_data_record... " />
+                <marker date="1682401333091" expanded="true" signature="37148:37228" ph="insert into client_data_record... " />
+                <marker date="1682401333091" expanded="true" signature="37772:37855" ph="insert into work... " />
+                <marker date="1682401333091" expanded="true" signature="38026:38076" ph="select * fro... client_data_record" />
+                <marker date="1682401333091" expanded="true" signature="38026:38084" ph="select * fro... client_data_record" />
+                <marker date="1682401333091" expanded="true" signature="38267:38290" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="38267:38310" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="38267:38315" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="38267:38323" ph="delete from " />
+                <marker date="1682401333091" expanded="true" signature="38520:38582" ph="select * fro... client_data_record" />
+                <marker date="1682401333091" expanded="true" signature="38832:38902" ph="select * fro... booking" />
+                <marker date="1682401333091" expanded="true" signature="38999:39038" ph="insert into share... " />
+                <marker date="1682401333091" expanded="true" signature="38999:39047" ph="insert into booking... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LAB APPROVAL.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/LAB APPROVAL.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DOCTOR REGISTRATION.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/doctor/DOCTOR REGISTRATION.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2889">
+              <caret line="107" column="7" lean-forward="false" selection-start-line="107" selection-start-column="7" selection-end-line="107" selection-end-column="7" />
+              <folding>
+                <marker date="1682261124648" expanded="true" signature="334:420" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab registration.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/lab/lab registration.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HOSPITAL REGISTRATION.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/hospital/HOSPITAL REGISTRATION.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2187">
+              <caret line="81" column="9" lean-forward="false" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/first.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/lab_home</find>
+      <find>/doctor_home</find>
+      <find>view_prescription</find>
+      <find>yes</find>
+      <find>add_prescription</find>
+      <find>today_booking</find>
+      <find>and_search_lab</find>
+      <find>profile</find>
+      <find>/LAB</find>
+      <find>/approved_booking</find>
+      <find>/add_prescription</find>
+      <find>/admin_home</find>
+      <find>hospital_h</find>
+      <find>static</find>
+      <find>approvedclient</find>
+      <find>approved_booking</find>
+      <find>and_view_records</find>
+      <find>view_record</find>
+      <find>doctor_registration</find>
+      <find>view_bookings</find>
+      <find>add_schedule</find>
+      <find>view_booki</find>
+      <find>iftestyes</find>
+      <find>lab_profile_management</find>
+      <find>upload_test_result</find>
+      <find>hospital_registration</find>
+      <find>view_hosp</find>
+      <find>doctor</find>
+      <find>lab</find>
+      <find>/add</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/bootstrap.html" />
+        <option value="$PROJECT_DIR$/templates/hospital/hospital_home.html" />
+        <option value="$PROJECT_DIR$/templates/admin/admin_home.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/SCHEDULE.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/update SCHEDULE.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/doctor_home.html" />
+        <option value="$PROJECT_DIR$/templates/LAB/test_result.html" />
+        <option value="$PROJECT_DIR$/templates/LAB/lab_home.html" />
+        <option value="$PROJECT_DIR$/templates/LAB/lab_profile_management.html" />
+        <option value="$PROJECT_DIR$/templates/admin/login.html" />
+        <option value="$PROJECT_DIR$/templates/bmi calculator.html" />
+        <option value="$PROJECT_DIR$/templates/main.css" />
+        <option value="$PROJECT_DIR$/templates/script.js" />
+        <option value="$PROJECT_DIR$/templates/bmi/bmi calculator.html" />
+        <option value="$PROJECT_DIR$/templates/bmi/script.js" />
+        <option value="$PROJECT_DIR$/templates/lab/lab_home.html" />
+        <option value="$PROJECT_DIR$/templates/admin/MEDICINE MANAGEMENT.html" />
+        <option value="$PROJECT_DIR$/templates/admin/medicine.html" />
+        <option value="$PROJECT_DIR$/templates/admin/TEST MANAGEMENT.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/UPDATE SCHEDULE.html" />
+        <option value="$PROJECT_DIR$/templates/admin/DOCTOR APPROVAL.html" />
+        <option value="$PROJECT_DIR$/templates/admin/HOSPITAL APPROVAL.html" />
+        <option value="$PROJECT_DIR$/templates/admin/APPROVED DOCTORS.html" />
+        <option value="$PROJECT_DIR$/templates/admin/APPROVED HOSPITALS.html" />
+        <option value="$PROJECT_DIR$/templates/admin/VIEW CLIENTS.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/BOOKING APPROVAL.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/VIEW CLIENT RECORD.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/TODAY BOOKING.html" />
+        <option value="$PROJECT_DIR$/templates/lab/update result.html" />
+        <option value="$PROJECT_DIR$/templates/lab/test_result.html" />
+        <option value="$PROJECT_DIR$/templates/admin/APPROVED LABS.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/PRESCRIPTION.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/APPROVED BOOKING.html" />
+        <option value="$PROJECT_DIR$/templates/hospital/HOSPITAL PROFILE MANAGEMENT.html" />
+        <option value="$PROJECT_DIR$/templates/admin/adminindex.html" />
+        <option value="$PROJECT_DIR$/templates/first.html" />
+        <option value="$PROJECT_DIR$/templates/hospital/hospitalindex.html" />
+        <option value="$PROJECT_DIR$/templates/lab/labindex.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/SHARED RECORD.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/ADD SCHEDULE.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/VIEW SCHEDULE.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/doctorindex.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/YESPAGE.html" />
+        <option value="$PROJECT_DIR$/templates/lab/lab_profile_management.html" />
+        <option value="$PROJECT_DIR$/templates/admin/LAB APPROVAL.html" />
+        <option value="$PROJECT_DIR$/templates/admin/VIEW TEST.html" />
+        <option value="$PROJECT_DIR$/templates/hospital/HOSPITAL REGISTRATION.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/DOCTOR REGISTRATION.html" />
+        <option value="$PROJECT_DIR$/templates/lab/lab registration.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/DOCTOR PROFILE MANAGEMENT.html" />
+        <option value="$PROJECT_DIR$/ADA.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1918" />
+    <option name="height" value="1018" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ADA">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ADA">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="templates">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 (C:\Users\HP\AppData\Local\Programs\Python\Python36\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hospital" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scratches" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\ADA\static\img" />
+      <recent name="C:\Users\HP\PycharmProjects\ADA\templates" />
+      <recent name="C:\Users\HP\PycharmProjects\ADA\templates\doctor" />
+      <recent name="C:\Users\HP\PycharmProjects\ADA\templates\hospital" />
+      <recent name="C:\Users\HP\PycharmProjects\ADA\templates\lab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\ADA\templates\bmi" />
+      <recent name="C:\Users\HP\PycharmProjects\ADA\templates\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ADA">
+    <configuration default="false" name="APPROVED BOOKING.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ADA/templates/doctor/APPROVED BOOKING.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="lab_profile_management.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ADA/templates/lab/lab_profile_management.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="HOSPITAL PROFILE MANAGEMENT.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ADA/templates/hospital/HOSPITAL PROFILE MANAGEMENT.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="lab_home.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ADA/templates/lab/lab_home.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in ADA.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ADA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ADA.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ADA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ADA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ADA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ADA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="ADA" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ADA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ADA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ADA" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ADA" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.ADA" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.APPROVED BOOKING.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.lab_profile_management.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.HOSPITAL PROFILE MANAGEMENT.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.lab_home.html" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in ADA.py" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ADA.py" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.lab_home.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.lab_profile_management.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.HOSPITAL PROFILE MANAGEMENT.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.APPROVED BOOKING.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9d2da30-c354-49bd-b4e0-f39f4fd36dc0" name="Default" comment="" />
+      <created>1667024676534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667024676534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_ADA_py - 2023.01.11 at 09h 33m 53s.xml">
+      <configuration name="Unittests in ADA.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1918" height="1018" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32076502" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3071342" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39909297" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29988194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29513514" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39909297" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADA.py</url>
+          <line>350</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/pic/221202-115158.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/221202-115643.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/221202-130710.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/221202-130733.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/221202-130834.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/221202-130907.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/221207-105136.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/221202-114332.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/221105-151424.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/221202-113824.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/medicine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/TEST MANAGEMENT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/UPDATE SCHEDULE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/DOCTOR APPROVAL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/APPROVED DOCTORS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/APPROVED HOSPITALS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/VIEW CLIENTS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/lab/update result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/lab/test_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/BOOKING APPROVAL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/APPROVED LABS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="42" column="35" lean-forward="false" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/VIEW CLIENT RECORD.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/PRESCRIPTION.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/APPROVED BOOKING.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="47" column="31" lean-forward="false" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/hospital/HOSPITAL PROFILE MANAGEMENT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="104" column="22" lean-forward="false" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/hospital/hospital_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/carousel-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/hospital/hospitalindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="104" column="18" lean-forward="false" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/SHARED RECORD.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/TODAY BOOKING.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/lab/lab_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/lab/labindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/ADD SCHEDULE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="39" column="89" lean-forward="false" selection-start-line="39" selection-start-column="89" selection-end-line="39" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/VIEW SCHEDULE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="40" column="108" lean-forward="false" selection-start-line="40" selection-start-column="108" selection-end-line="40" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/doctorindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="104" column="79" lean-forward="false" selection-start-line="104" selection-start-column="79" selection-end-line="104" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/YESPAGE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/pic/230226-153850.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADA.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/VIEW TEST.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/adminindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/HOSPITAL APPROVAL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/MEDICINE MANAGEMENT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/lab/lab_profile_management.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/LAB APPROVAL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/DOCTOR REGISTRATION.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2889">
+          <caret line="107" column="7" lean-forward="false" selection-start-line="107" selection-start-column="7" selection-end-line="107" selection-end-column="7" />
+          <folding>
+            <marker date="1682261124648" expanded="true" signature="334:420" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/DOCTOR PROFILE MANAGEMENT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/lab/lab registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/hospital/HOSPITAL REGISTRATION.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2187">
+          <caret line="81" column="9" lean-forward="false" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/first.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="1041" column="17" lean-forward="false" selection-start-line="1041" selection-start-column="17" selection-end-line="1041" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1682401333091" expanded="true" signature="548:624" ph="select * fro... login" />
+            <marker date="1682401333091" expanded="true" signature="1853:1947" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="2202:2302" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="2549:2634" ph="select * fro... lab" />
+            <marker date="1682401333091" expanded="true" signature="2882:2902" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="2882:2975" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="3225:3247" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="3225:3253" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="3225:3316" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="3225:3326" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="3225:3328" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="3579:3596" ph="select * fro... lab" />
+            <marker date="1682401333091" expanded="true" signature="3579:3650" ph="select * fro... lab" />
+            <marker date="1682401333091" expanded="true" signature="3579:3655" ph="select * fro... lab" />
+            <marker date="1682401333091" expanded="true" signature="3579:3660" ph="select * fro... lab" />
+            <marker date="1682401333091" expanded="true" signature="3579:3662" ph="select * fro... lab" />
+            <marker date="1682401333091" expanded="true" signature="3921:3941" ph="select * fro... client" />
+            <marker date="1682401333091" expanded="true" signature="4214:4282" ph="update login... " />
+            <marker date="1682401333091" expanded="true" signature="4544:4598" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="4620:4668" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="4928:4994" ph="update login... " />
+            <marker date="1682401333091" expanded="true" signature="5250:5304" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="5326:5378" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="5630:5693" ph="update login... " />
+            <marker date="1682401333091" expanded="true" signature="5940:5988" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="6010:6062" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="6745:6828" ph="insert into medicine... " />
+            <marker date="1682401333091" expanded="true" signature="7180:7202" ph="select * fro... medicine" />
+            <marker date="1682401333091" expanded="true" signature="7558:7596" ph="insert into test... " />
+            <marker date="1682401333091" expanded="true" signature="7932:7946" ph="select * fro... me" />
+            <marker date="1682401333091" expanded="true" signature="7932:7950" ph="select * fro... test" />
+            <marker date="1682401333091" expanded="true" signature="8201:8224" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="8201:8233" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="8201:8241" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="9561:9629" ph="insert into login... " />
+            <marker date="1682401333091" expanded="true" signature="9651:9805" ph="insert into hospital... " />
+            <marker date="1682401333091" expanded="true" signature="9651:9820" ph="insert into hospital... " />
+            <marker date="1682401333091" expanded="true" signature="9651:9835" ph="insert into hospital... " />
+            <marker date="1682401333091" expanded="true" signature="9651:9837" ph="insert into hospital... " />
+            <marker date="1682401333091" expanded="true" signature="10877:11173" ph="update hospi... " />
+            <marker date="1682401333091" expanded="true" signature="11326:11631" ph="update hospi... " />
+            <marker date="1682401333091" expanded="true" signature="11776:12082" ph="update hospi... " />
+            <marker date="1682401333091" expanded="true" signature="12238:12304" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="13176:13212" ph="select * fro... login" />
+            <marker date="1682401333091" expanded="true" signature="13176:13225" ph="select * fro... login" />
+            <marker date="1682401333091" expanded="true" signature="13368:13436" ph="insert into login... " />
+            <marker date="1682401333091" expanded="true" signature="13458:13668" ph="insert into doctor... " />
+            <marker date="1682401333091" expanded="true" signature="14447:14761" ph="update docto... " />
+            <marker date="1682401333091" expanded="true" signature="14913:14951" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="14913:14974" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="14913:14977" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="15151:15299" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="15151:15323" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="15151:15353" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="15525:15673" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="15525:15697" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="15525:15737" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="15525:15753" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="15929:16040" ph="select * fro... share" />
+            <marker date="1682401333091" expanded="true" signature="15929:16041" ph="select * fro... share" />
+            <marker date="1682401333091" expanded="true" signature="15929:16046" ph="select * fro... share" />
+            <marker date="1682401333091" expanded="true" signature="15929:16049" ph="select * fro... share" />
+            <marker date="1682401333091" expanded="true" signature="16221:16369" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="16221:16414" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="16601:16654" ph="update booki... " />
+            <marker date="1682401333091" expanded="true" signature="16601:16663" ph="update login... " />
+            <marker date="1682401333091" expanded="true" signature="16857:16906" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="17086:17135" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="17509:17592" ph="insert into prescription... " />
+            <marker date="1682401333091" expanded="true" signature="17729:17772" ph="update presc... " />
+            <marker date="1682401333091" expanded="true" signature="17729:17785" ph="update booki... " />
+            <marker date="1682401333091" expanded="true" signature="17729:17793" ph="update booki... " />
+            <marker date="1682401333091" expanded="true" signature="17947:17969" ph="select * fro... medicine" />
+            <marker date="1682401333091" expanded="true" signature="18143:18165" ph="select * fro... medicine" />
+            <marker date="1682401333091" expanded="true" signature="18143:18286" ph="select * fro... medicine" />
+            <marker date="1682401333091" expanded="true" signature="18581:18603" ph="insert into lab... " />
+            <marker date="1682401333091" expanded="true" signature="18581:18609" ph="insert into lab... " />
+            <marker date="1682401333091" expanded="true" signature="18581:18613" ph="insert into lab... " />
+            <marker date="1682401333091" expanded="true" signature="18581:18620" ph="insert into lab... " />
+            <marker date="1682401333091" expanded="true" signature="18581:18623" ph="insert into lab_test... " />
+            <marker date="1682401333091" expanded="true" signature="18581:18629" ph="insert into lab_test... " />
+            <marker date="1682401333091" expanded="true" signature="18581:18630" ph="insert into lab... " />
+            <marker date="1682401333091" expanded="true" signature="18780:18798" ph="select * fro... test" />
+            <marker date="1682401333091" expanded="true" signature="19143:19171" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="19143:19187" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="19143:19191" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="19143:19203" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="19143:19213" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="19143:19221" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="19143:19227" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="19143:19237" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="19385:19418" ph="insert into schedule... " />
+            <marker date="1682401333091" expanded="true" signature="19385:19444" ph="insert into schedule... " />
+            <marker date="1682401333091" expanded="true" signature="19385:19455" ph="insert into schedule... " />
+            <marker date="1682401333091" expanded="true" signature="19385:19467" ph="insert into schedule... " />
+            <marker date="1682401333091" expanded="true" signature="19385:19478" ph="insert into schedule... " />
+            <marker date="1682401333091" expanded="true" signature="19732:19746" ph="select * fro... med" />
+            <marker date="1682401333091" expanded="true" signature="19732:19771" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="19732:19796" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="19971:20011" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="19971:20018" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="20391:20410" ph="update sched... " />
+            <marker date="1682401333091" expanded="true" signature="20391:20417" ph="update sched... " />
+            <marker date="1682401333091" expanded="true" signature="20391:20425" ph="update sched... " />
+            <marker date="1682401333091" expanded="true" signature="20391:20458" ph="update sched... " />
+            <marker date="1682401333091" expanded="true" signature="20391:20468" ph="update sched... " />
+            <marker date="1682401333091" expanded="true" signature="20391:20478" ph="update sched... " />
+            <marker date="1682401333091" expanded="true" signature="20391:20484" ph="update sched... " />
+            <marker date="1682401333091" expanded="true" signature="20391:20488" ph="update sched... " />
+            <marker date="1682401333091" expanded="true" signature="20391:20495" ph="update sched... " />
+            <marker date="1682401333091" expanded="true" signature="20391:20497" ph="update sched... " />
+            <marker date="1682401333091" expanded="true" signature="20645:20686" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="20645:20694" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="21708:21761" ph="select * fro... login" />
+            <marker date="1682401333091" expanded="true" signature="21905:21973" ph="insert into login... " />
+            <marker date="1682401333091" expanded="true" signature="21995:22018" ph="insert into lab... " />
+            <marker date="1682401333091" expanded="true" signature="21995:22153" ph="insert into lab... " />
+            <marker date="1682401333091" expanded="true" signature="21995:22168" ph="insert into lab... " />
+            <marker date="1682401333091" expanded="true" signature="22900:23205" ph="update docto... " />
+            <marker date="1682401333091" expanded="true" signature="23354:23412" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="23925:23962" ph="select * fro... client" />
+            <marker date="1682401333091" expanded="true" signature="23925:23972" ph="select * fro... client" />
+            <marker date="1682401333091" expanded="true" signature="24059:24075" ph="insert into lab_... " />
+            <marker date="1682401333091" expanded="true" signature="24059:24093" ph="insert into lab_result... " />
+            <marker date="1682401333091" expanded="true" signature="24059:24094" ph="insert into lab_result... " />
+            <marker date="1682401333091" expanded="true" signature="24059:24108" ph="insert into lab_result... " />
+            <marker date="1682401333091" expanded="true" signature="24059:24119" ph="insert into lab_result... " />
+            <marker date="1682401333091" expanded="true" signature="24059:24132" ph="insert into lab_result... " />
+            <marker date="1682401333091" expanded="true" signature="24059:24134" ph="insert into lab_result... " />
+            <marker date="1682401333091" expanded="true" signature="24059:24159" ph="insert into lab_result... " />
+            <marker date="1682401333091" expanded="true" signature="24059:24161" ph="insert into lab_result... " />
+            <marker date="1682401333091" expanded="true" signature="25811:25886" ph="select * fro... lab_test" />
+            <marker date="1682401333091" expanded="true" signature="25811:25910" ph="select * fro... lab_result" />
+            <marker date="1682401333091" expanded="true" signature="25811:25934" ph="select * fro... lab_result" />
+            <marker date="1682401333091" expanded="true" signature="25811:25936" ph="select * fro... lab_result" />
+            <marker date="1682401333091" expanded="true" signature="26445:26529" ph="select * fro... login" />
+            <marker date="1682401333091" expanded="true" signature="26825:26878" ph="select * fro... test" />
+            <marker date="1682401333091" expanded="true" signature="27750:27828" ph="update clien... " />
+            <marker date="1682401333091" expanded="true" signature="27750:27977" ph="update clien... " />
+            <marker date="1682401333091" expanded="true" signature="27750:27994" ph="update clien... " />
+            <marker date="1682401333091" expanded="true" signature="27750:27995" ph="update clien... " />
+            <marker date="1682401333091" expanded="true" signature="27750:28008" ph="update clien... " />
+            <marker date="1682401333091" expanded="true" signature="27750:28010" ph="update clien... " />
+            <marker date="1682401333091" expanded="true" signature="28100:28368" ph="update clien... " />
+            <marker date="1682401333091" expanded="true" signature="28452:28720" ph="update clien... " />
+            <marker date="1682401333091" expanded="true" signature="28822:29107" ph="update clien... " />
+            <marker date="1682401333091" expanded="true" signature="29248:29268" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="29248:29288" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="29248:29333" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="29248:29341" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="29248:29343" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="29563:29577" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="29563:29585" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="29563:29664" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="29563:29666" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="29937:30030" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="29937:30064" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="29937:30072" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="30334:30435" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="30334:30470" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="30334:30478" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="30334:30479" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="30737:30781" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="30737:30782" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="30737:30790" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="30737:30792" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="31053:31103" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="31053:31104" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="31053:31112" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="31053:31115" ph="select * fro... hospital" />
+            <marker date="1682401333091" expanded="true" signature="31388:31436" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="31745:31786" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="31745:31794" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="31745:31803" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="31745:31810" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="31745:31818" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="31915:31946" ph="insert into booking... " />
+            <marker date="1682401333091" expanded="true" signature="31915:31986" ph="insert into booking... " />
+            <marker date="1682401333091" expanded="true" signature="31915:31994" ph="insert into booking... " />
+            <marker date="1682401333091" expanded="true" signature="31915:31995" ph="insert into booking... " />
+            <marker date="1682401333091" expanded="true" signature="31915:31997" ph="insert into booking... " />
+            <marker date="1682401333091" expanded="true" signature="32199:32355" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="32635:32654" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="32635:32673" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="32635:32681" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="32866:32991" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="33272:33369" ph="select * fro... prescription" />
+            <marker date="1682401333091" expanded="true" signature="34247:34259" ph="insert into c... " />
+            <marker date="1682401333091" expanded="true" signature="34247:34277" ph="insert into login... " />
+            <marker date="1682401333091" expanded="true" signature="34247:34292" ph="insert into login... " />
+            <marker date="1682401333091" expanded="true" signature="34247:34315" ph="insert into login... " />
+            <marker date="1682401333091" expanded="true" signature="34247:34317" ph="insert into login... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34365" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34380" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34398" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34417" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34430" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34440" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34451" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34466" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34481" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34504" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34518" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34337:34520" ph="insert into client... " />
+            <marker date="1682401333091" expanded="true" signature="34760:34841" ph="select * fro... doctor" />
+            <marker date="1682401333091" expanded="true" signature="35106:35220" ph="select * fro... lab" />
+            <marker date="1682401333091" expanded="true" signature="35496:35652" ph="select * fro... schedule" />
+            <marker date="1682401333091" expanded="true" signature="35496:35692" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="35496:35708" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="36495:36597" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="37148:37211" ph="insert into client_data_record... " />
+            <marker date="1682401333091" expanded="true" signature="37148:37227" ph="insert into client_data_record... " />
+            <marker date="1682401333091" expanded="true" signature="37148:37228" ph="insert into client_data_record... " />
+            <marker date="1682401333091" expanded="true" signature="37772:37855" ph="insert into work... " />
+            <marker date="1682401333091" expanded="true" signature="38026:38076" ph="select * fro... client_data_record" />
+            <marker date="1682401333091" expanded="true" signature="38026:38084" ph="select * fro... client_data_record" />
+            <marker date="1682401333091" expanded="true" signature="38267:38290" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="38267:38310" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="38267:38315" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="38267:38323" ph="delete from " />
+            <marker date="1682401333091" expanded="true" signature="38520:38582" ph="select * fro... client_data_record" />
+            <marker date="1682401333091" expanded="true" signature="38832:38902" ph="select * fro... booking" />
+            <marker date="1682401333091" expanded="true" signature="38999:39038" ph="insert into share... " />
+            <marker date="1682401333091" expanded="true" signature="38999:39047" ph="insert into booking... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+import time
+timestr = time.strftime("%Y%m%d-%H%M%S")
+    print(timestr)
+    a = base64.b64decode(image)
+    fh = open("static/Reg_photos/" + timestr + ".jpg", "wb")
+    path = "/static/Reg_photos/" + timestr + ".jpg"
+    fh.write(a)
+    fh.close()

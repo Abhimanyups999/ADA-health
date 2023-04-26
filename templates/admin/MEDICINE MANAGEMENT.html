@@ -1,0 +1,46 @@
+{% extends"admin/adminindex.html" %}
+{% block body %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+     <style type="text/css">
+        th{
+            color: black;
+        }
+    </style>
+</head>
+
+<body>
+<form action="" method="post" enctype="multipart/form-data" name="form1" id="form1">
+    <h2 class="red">ADD MEDICINE</h2>
+  <table class="table table-hover">
+    <tr>
+      <th width="181" scope="row">image:</th>
+      <td width="257"><label for="fileField"></label>
+      <input type="file" name="fileField" id="fileField" class="form-control" required/></td>
+    </tr>
+    <tr>
+      <th scope="row">name:</th>
+      <td><label for="textfield"></label>
+      <input type="text" name="textfield" id="textfield" class="form-control" required /></td>
+    </tr>
+    <tr>
+      <th height="162" scope="row">details:</th>
+      <td><label for="textarea"></label>
+      <textarea name="textarea" id="textarea" cols="45" rows="5" class="form-control" required></textarea></td>
+    </tr>
+    <tr>
+      <th scope="row">price:</th>
+      <td><label for="textfield2"></label>
+      <input type="text" name="textfield2" id="textfield2" class="form-control" required/></td>
+    </tr>
+    <tr>
+      <th colspan="2" scope="row"><input type="submit" name="button" id="button" value="ADD" class="btn btn-primary"/></th>
+    </tr>
+  </table>
+</form>
+</body>
+</html>
+{% endblock %}

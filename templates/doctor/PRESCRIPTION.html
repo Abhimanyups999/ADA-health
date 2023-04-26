@@ -1,0 +1,55 @@
+{% extends "doctor/doctorindex.html" %}
+{% block body %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+   <style type="text/css">
+        th{
+            color: black;
+        }
+    </style>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+<h2 class="red">PRESCRIPTIONS</h2>
+<table class="table table-hover">
+    <tr>
+      <th height="46" scope="row">MEDICINE NAME</th>
+      <td>&nbsp;<select name="select">
+          {% for i in data %}
+          <option value="{{ i.medicine_id }}">{{ i.medicine_name }}</option>
+          {% endfor %}
+      </select></td>
+
+    </tr>
+{#   {% for i in data %}#}
+    <tr>
+        <th>DETAILS</th>
+{#      <th width="240" height="46" scope="row">&nbsp;{{ i.medicine_name }}</th>#}
+{#      <td width="240"><label for="textfield"></label>#}
+{#      <input type="text"  name="textfield" id="textfield" /></td>#}
+{#      <td width="370"><label for="textarea2"></label>#}
+      <td><textarea name="textarea" id="textarea2" cols="45" rows="5"></textarea></td>
+    </tr>
+{#   {% endfor %}#}
+
+    <tr>
+      <th height="83" scope="row">TEST</th>
+      <td colspan="2"><input type="radio" name="radio" id="radio" value="yes" />
+          <label for="radio">YES</label><br />
+          <input type="radio" name="radio" id="radio2" value="no" checked />
+            <label for="radio">NO</label><br /></td>
+    </tr>
+    <tr>
+      <th height="72" colspan="3" scope="row"><input type="submit" name="button" id="button" value="ADD" /></th>
+    </tr>
+  </table>
+</form>
+
+
+</body>
+</html>
+{% endblock %}

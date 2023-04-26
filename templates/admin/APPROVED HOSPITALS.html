@@ -1,0 +1,55 @@
+{% extends"admin/adminindex.html" %}
+{% block body %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+         <style>
+table, td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+</style>
+</head>
+
+<body>
+<form id="form1" name="form1" method="get" action="">
+<h2 class="red">APPROVED HOSPITALS</h2>
+   <table class="table table-hover">
+    <tr>
+      <th width="10" scope="col">#</th>
+      <th width="105" scope="col">HOSPITAL NAME</th>
+      <th width="92" scope="col">LICENSE ID</th>
+      <th width="52" scope="col">TYPE</th>
+      <th width="58" scope="col">ZIP CODE</th>
+      <th width="69" scope="col">IMAGE</th>
+      <th width="66" scope="col">BIO</th>
+      <th width="66" scope="col">EMAIL</th>
+      <th width="222" scope="col">PHONE NUMBER</th>
+    </tr>
+       {% for i in data %}
+    <tr>
+      <td height="124">&nbsp;</td>
+      <td>{{ i.hospital_name }}</td>
+      <td>{{ i.license_id }}</td>
+      <td>{{ i.type }}</td>
+      <td>{{ i.zipcode }}</td>
+     <td><img src="{{ i.image }}" height="100" width="100"/></td>
+      <td>{{ i.bio }}</td>
+      <td>{{ i.email_id }}</td>
+      <td>{{ i.phone_number }}</td>
+    </tr>
+       {% endfor %}
+  </table>
+</form>
+</body>
+</html>
+{% endblock %}

@@ -1,0 +1,50 @@
+{% extends"doctor/doctorindex.html" %}
+{% block body %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+    <style>
+table, td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+</style>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+<h2 class="red">VIEW SCHEDULE</h2>
+<table class="table table-hover">
+    <tr>
+      <th scope="row">#</th>
+      <th>DATE</th>
+      <th>FROM TIME</th>
+      <th>TO TIME</th>
+      <th>&nbsp;</th>
+    </tr>
+       {% for i in data %}
+    <tr>
+
+      <td scope="row">{{ loop.index }}</td>
+      <td>{{ i.date }}</td>
+      <td>{{ i.from_time }}</td>
+      <td>{{ i.to_time }}</td>
+      <td><p><a href="/delete_schedule/{{ i.schedule_id }}" onclick="return confirm('Are you sure to delete?')" class="btn btn-primary">DELETE</a></p>
+      <p><a href="/update_schedule/{{ i.schedule_id }}" class="btn btn-primary">UPDATE</a></p></td>
+
+    </tr>
+       {% endfor %}
+  </table>
+</form>
+</body>
+</html>
+{% endblock %}
